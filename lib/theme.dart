@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 //NOTE: COLOR
 Color kBlackColor = const Color(0xff222222);
 Color kBlackAccentColor = const Color(0xff2A2B37);
-Color kBGreyColor = const Color(0xff94959B);
+Color kGreyColor = const Color(0xff94959B);
 Color kLineDarkColor = const Color(0xffEAEAEA);
 Color kWhiteGreyColor = const Color(0xffF1F1F5);
 Color kWhiteColor = const Color(0xffFFFFFF);
@@ -20,7 +20,7 @@ TextStyle blackAccentTextStyle = GoogleFonts.nunito(
   color: kBlackAccentColor,
 );
 TextStyle greyTextStyle = GoogleFonts.nunito(
-  color: kBGreyColor,
+  color: kGreyColor,
 );
 TextStyle lineDarkTextStyle = GoogleFonts.nunito(
   color: kLineDarkColor,
